@@ -15,7 +15,7 @@ To get started with the Sanofi Challenge, follow these steps:
 Clone this repository to your local machine using the following command:
 ```
 python
-git clone https://github.com/your-username/Sanofi_Challenge.git
+git clone https://github.com/whatcanaysu/Sanofi_Challenge.git
 ```
 Install the required dependencies by running the following command:
 ```
