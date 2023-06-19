@@ -5,11 +5,11 @@ Overview
 In this challenge, I have constructed models related to manufacturing yield that can help Sanofi process engineers answer their questions. The goal was to build a model for 96 different production units and extract test features from QC_Data for both input and output. After analyzing the data, I identified weighted attributes and explored various models. And guess what? XGBoost emerged as the best-performing model! :tada:
 
 Repository Structure
-data/: This directory contains the data files used in the challenge.
-notebooks/: This directory contains Jupyter notebooks with the code used for data preprocessing, model building, and evaluation.
-models/: This directory contains the trained models that were saved for future use.
-README.md: You're reading it right now! :smiley:
-Getting Started
+1. 'data/': This directory contains the data files used in the challenge.
+2. 'notebooks/': This directory contains Jupyter notebooks with the code used for data preprocessing, model building, and evaluation.
+3. 'README.md': You're reading it right now! :smiley:
+
+## Getting Started
 To get started with the Sanofi Challenge, follow these steps:
 
 Clone this repository to your local machine using the following command:
